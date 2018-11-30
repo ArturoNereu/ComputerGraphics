@@ -14,3 +14,4 @@ Put your skills to use, learn, try and more by using these online shader sandbox
 ### Books
 - [Physically Based Rendering](http://www.pbr-book.org/) *free online*
 - [Real Time Rendering](http://www.realtimerendering.com/)
+- [The Graphics Codex](http://graphicscodex.com/) 
