@@ -1,6 +1,9 @@
 # ComputerGraphics
 A repository documenting Computer Graphics for real time applications
 
+### Is Computer Graphics programming for me? Or where to start.
+- [How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html)
+
 ### Shader Sandboxes
 Put your skills to use, learn, try and more by using these online shader sandboxes:
 - [ShaderToy](https://shadertoy.com)
