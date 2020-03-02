@@ -25,7 +25,7 @@ Put your skills to use, learn, try and more by using these online shader sandbox
 - [Filament Project by Google](https://google.github.io/filament/Filament.md.html#about) Real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
 
 #### Path/Ray Tracing
-- [Caffeine Path Tracer](https://wwwtyro.net/2018/02/25/caffeine.html)
+- [Caffeine Path Tracer](https://wwwtyro.net/2018/02/25/caffeine.html) Open source and well documented path tracer by Rye Terrell
 
 ### Internet Articles
 #### Math
