@@ -27,6 +27,9 @@ Put your skills to use, learn, try and more by using these online shader sandbox
 #### Path/Ray Tracing
 - [Caffeine Path Tracer](https://wwwtyro.net/2018/02/25/caffeine.html) Open source and well documented path tracer by Rye Terrell
 
+### Communitites
+- [Computer Graphics Stack Exchange](https://computergraphics.stackexchange.com/) Question and Answer site focused on Computer Graphics.
+
 ### Internet Articles
 #### Math
 - [Inmersive Math](http://immersivemath.com/ila/index.html) An interactive site to learn basic math for Computer Graphics
