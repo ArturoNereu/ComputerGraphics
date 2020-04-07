@@ -41,6 +41,15 @@ Put your skills to use, learn, try and more by using these online shader sandbox
 - [Ray Tracing in a Weekend, book series ](https://github.com/RayTracing/raytracing.github.io/)*free online*
 
 ### Render Engines
+
+#### Game Engines
+- [Unity](http://unity3d.com/)
+- [Unreal Engine](https://www.unrealengine.com/en-US/) 
+- [Amazon Lumberyard](https://aws.amazon.com/lumberyard/)
+- [Godot](https://godotengine.org/)
+- [Frostbite](https://www.ea.com/frostbite)
+
+
 #### Physically Based
 - [Filament Project by Google](https://google.github.io/filament/Filament.md.html#about) Real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
 - [Mitsuba 2 Renderer](http://www.mitsuba-renderer.org/) Mitsuba 2 is a research-oriented retargetable rendering system, written in portable C++17.
