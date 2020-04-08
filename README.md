@@ -63,6 +63,7 @@ Put your skills to use, learn, try and more by using these online shader sandbox
 ### Internet Articles
 
 #### Blogs
+- [Graphics Programming Weekly](https://www.jendrikillner.com/tags/weekly/)
 - [wwwwtyro](https://wwwtyro.net/) Blog on multiple CG related topics by Rye Terrell.
 - [Activision Research](https://research.activision.com/) Activision/Blizzard research blog centered mostly on computer graphics.
 - [ShaderCat Blog](https://www.shadercat.com/) Claudia Doppioslash's blog on (mostly) CG related topics.
