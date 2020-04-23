@@ -49,6 +49,8 @@ Put your skills to use, learn, try and more by using these online shader sandbox
 - [Godot](https://godotengine.org/)
 - [Frostbite](https://www.ea.com/frostbite)
 
+And this very interesting study on [Custom Game Engines](https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74) by raylib
+
 
 #### Physically Based
 - [Filament Project by Google](https://google.github.io/filament/Filament.md.html#about) Real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
