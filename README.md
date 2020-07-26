@@ -28,6 +28,8 @@ Put your skills to use, learn, try and more by using these online shader sandbox
 
 
 #### Learning
+- [The Book of Shaders](https://thebookofshaders.com/) A gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
+- [Shader School](https://github.com/stackgl/shader-school) An introduction to GLSL shaders and graphics programming that runs in your web browser.
 - [Pixel Spirit Deck](https://patriciogonzalezvivo.github.io/PixelSpiritDeck/) A set of phisical cards that helps you learn shader development with GLSL (but really applies to any shader language).
 
 ### Tools
