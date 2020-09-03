@@ -38,10 +38,11 @@ Put your skills to use, learn, try and more by using these online shader sandbox
 - [KodeLife](https://hexler.net/products/kodelife) Real-time GPU shader editor
 
 ### Books
+- [The Book of Shaders](https://thebookofshaders.com/) *free online, please consider donating*
 - [Physically Based Rendering](http://www.pbr-book.org/) *free online*
 - [Real Time Rendering](http://www.realtimerendering.com/)
 - [The Graphics Codex](http://graphicscodex.com/) 
-- [Ray Tracing in a Weekend, book series ](https://github.com/RayTracing/raytracing.github.io/)*free online*
+- [Ray Tracing in a Weekend, book series ](https://github.com/RayTracing/raytracing.github.io/) *free online*
 
 #### Math
 - [Linear Algebra Done Right](https://link.springer.com/book/10.1007/978-3-319-11080-6)*free online*
