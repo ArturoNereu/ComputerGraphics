@@ -89,6 +89,7 @@ And this very interesting study on [Custom Game Engines](https://gist.github.com
 
 ### Courses
 - [CS1230 : Introduction To Computer Graphics Brown University](https://cs.brown.edu/courses/cs123/lectures.shtml) CG course by the Brown University
+- [15-462/662: Computer Graphics](http://15462.courses.cs.cmu.edu/fall2020/) CG course by the Carnegie Mellon University
 - [Compute Shaders Course](https://gumroad.com/psychobiotik) Paid course on Compute Shaders with Unity by Arsiliath
 - [Shader Development using Unity](https://shaderdev.com/) Course on general CG and shader development with Unity by Technical Artist Chayan Vinayak
 
