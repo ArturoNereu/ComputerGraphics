@@ -84,7 +84,7 @@ Put your skills to use, learn, try and more by using these online shader sandbox
 #### Math
 - [Linear Algebra Done Right](https://link.springer.com/book/10.1007/978-3-319-11080-6) *free online*
 
-///COMMUNITY
+![](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Community.png)
 #### People to follow on Twitter
 - [CG List on Twitter](https://twitter.com/i/lists/842481518564073473) 
 #### Communitites
