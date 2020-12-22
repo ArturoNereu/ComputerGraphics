@@ -89,3 +89,4 @@ Put your skills to use, learn, try and more by using these online shader sandbox
 - [CG List on Twitter](https://twitter.com/i/lists/842481518564073473) 
 #### Communitites
 - [Computer Graphics Stack Exchange](https://computergraphics.stackexchange.com/) Question and Answer site focused on Computer Graphics.
+- [Shadertoy Facebook group](https://www.facebook.com/groups/shadertoy) Discussion group around Shadertoy.
