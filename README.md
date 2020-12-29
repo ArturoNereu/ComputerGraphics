@@ -13,7 +13,7 @@ A repository documenting Computer Graphics for real time applications
 - [ShaderCat Blog](https://www.shadercat.com/) Claudia Doppioslash's blog on (mostly) CG related topics.
 
 #### Math
-- [Inmersive Math](http://immersivemath.com/ila/index.html) An interactive site to learn basic math for Computer Graphics
+- [Immersive Math](http://immersivemath.com/ila/index.html) An interactive site to learn basic math for Computer Graphics
 - [Decoding a Projection Matrix](http://xdpixel.com/decoding-a-projection-matrix/)
 
 #### Color
