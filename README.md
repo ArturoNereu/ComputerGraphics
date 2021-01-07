@@ -1,45 +1,52 @@
 ![](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Computer%20Graphics.png)
 
-A repository documenting Computer Graphics for real time applications
+### A repository documenting Computer Graphics for real-time applications
+
+In my opinion, one of the most beautiful applications of computing, programming, mathematics, physics, art and human knowledge is *Computer Graphics*. While I don't consider myself an expert, I will say that I've been studied the topic for many years now and in this document I want to share some of the most useful and influential resources I've found through the years. I hope they are useful to you.
+
+Please, if you have more resources or feedback on the ones listed here, reach out to me on twitter: [@ArturoNereu](https://twitter.com/arturonereu) or submit an issue and will gladly review and add them.
 
 ### Is Computer Graphics programming for me? Or where to start.
+
+Maybe you are thinking about pursuing a career in the computer graphics field or just wanting to learn more about the topic(which is basically my case). In any case, I would start by saying that is not hard but also is not extremely straightforward as CG (Computer Graphics) are built on top of many other areas such as math, programming, physics, etc. In many cases you won't need to have a deep understanding in those areas but definitely can help.
+
 - [How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html)
 
 ![](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Internet%20Articles.png)
 #### Blogs
-- [Graphics Programming Weekly](https://www.jendrikillner.com/tags/weekly/)
+- [Graphics Programming Weekly](https://www.jendrikillner.com/tags/weekly/) A weekly summary of hot news around the CG world curated by Ubisoft's Jendrik Illner.
 - [wwwwtyro](https://wwwtyro.net/) Blog on multiple CG related topics by Rye Terrell.
 - [Activision Research](https://research.activision.com/) Activision/Blizzard research blog centered mostly on computer graphics.
 - [ShaderCat Blog](https://www.shadercat.com/) Claudia Doppioslash's blog on (mostly) CG related topics.
 
 #### Math
-- [Immersive Math](http://immersivemath.com/ila/index.html) An interactive site to learn basic math for Computer Graphics
-- [Decoding a Projection Matrix](http://xdpixel.com/decoding-a-projection-matrix/)
+- [Immersive Math](http://immersivemath.com/ila/index.html) An interactive site to learn basic math for Computer Graphics.
+- [Decoding a Projection Matrix](http://xdpixel.com/decoding-a-projection-matrix/) Short article on the Projection Matrix.
 
 #### Color
-- [Basic Color Science for Graphics Engineers](https://agraphicsguy.wordpress.com/2018/11/29/basic-color-science-for-graphics-engineers/)
+- [Basic Color Science for Graphics Engineers](https://agraphicsguy.wordpress.com/2018/11/29/basic-color-science-for-graphics-engineers/) Fun and short write up on the basics of Color for people working on Computer Graphics. 
 
 ![](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Courses.png)
 #### Computer Graphics
-- [CS1230 : Introduction To Computer Graphics Brown University](https://cs.brown.edu/courses/cs123/lectures.shtml) CG course by the Brown University
-- [15-462/662: Computer Graphics](http://15462.courses.cs.cmu.edu/fall2020/) CG course by the Carnegie Mellon University
+- [CS1230 : Introduction To Computer Graphics Brown University](https://cs.brown.edu/courses/cs123/lectures.shtml) CG course by the Brown University. 
+- [15-462/662: Computer Graphics](http://15462.courses.cs.cmu.edu/fall2020/) CG course by the Carnegie Mellon University. Honestly one of the best  courses I've taken. Lectures are free on YouTube.
 
 #### Shader Development
-- [Compute Shaders Course](https://gumroad.com/psychobiotik) Paid course on Compute Shaders with Unity by Arsiliath
-- [Shader Development using Unity](https://shaderdev.com/) Course on general CG and shader development with Unity by Technical Artist Chayan Vinayak
+- [Compute Shaders Course](https://gumroad.com/psychobiotik) Paid course on Compute Shaders with Unity by Arsiliath.
+- [Shader Development using Unity](https://shaderdev.com/) Course on general CG and shader development with Unity by Technical Artist Chayan Vinayak.
 - [The Book of Shaders](https://thebookofshaders.com/) A gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
 - [Shader School](https://github.com/stackgl/shader-school) An introduction to GLSL shaders and graphics programming that runs in your web browser.
 - [Pixel Spirit Deck](https://patriciogonzalezvivo.github.io/PixelSpiritDeck/) A set of phisical cards that helps you learn shader development with GLSL (but really applies to any shader language).
 
 ![](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Tools.png)
 #### Game Engines
-- [Unity](http://unity3d.com/)
+- [Unity](http://unity3d.com/) 
 - [Unreal Engine](https://www.unrealengine.com/en-US/) 
 - [Amazon Lumberyard](https://aws.amazon.com/lumberyard/)
 - [Godot](https://godotengine.org/)
 - [Frostbite](https://www.ea.com/frostbite)
 
-And this very interesting study on [Custom Game Engines](https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74) by raylib
+And this very interesting study on [Custom Game Engines](https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74) by raylib.
 
 #### Shader Sandboxes
 Put your skills to use, learn, try and more by using these online shader sandboxes:
