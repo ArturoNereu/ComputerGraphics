@@ -12,7 +12,15 @@ Maybe you are thinking about pursuing a career in the computer graphics field or
 
 - [How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html)
 
-![](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Internet%20Articles.png)
+
+#### Index
+* [Internet Articles]
+* [Courses]()
+* [Tools]()
+* [Books]()
+* [Community]()
+
+[](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Internet%20Articles.png)
 #### Blogs
 - [Graphics Programming Weekly](https://www.jendrikillner.com/tags/weekly/) A weekly summary of hot news around the CG world curated by Ubisoft's Jendrik Illner.
 - [wwwwtyro](https://wwwtyro.net/) Blog on multiple CG related topics by Rye Terrell.
