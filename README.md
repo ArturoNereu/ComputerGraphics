@@ -46,6 +46,9 @@ Maybe you are thinking about pursuing a career in the computer graphics field or
 - [Shader School](https://github.com/stackgl/shader-school) An introduction to GLSL shaders and graphics programming that runs in your web browser.
 - [Pixel Spirit Deck](https://patriciogonzalezvivo.github.io/PixelSpiritDeck/) A set of phisical cards that helps you learn shader development with GLSL (but really applies to any shader language).
 
+#### Math
+- [Math for Game Devs](https://www.youtube.com/playlist?list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V) Freya Holmér (Shader Forge, Shapes) free videos teaching mathematics for game developers.
+
 ![](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Tools.png)
 #### Game Engines
 - [Unity](http://unity3d.com/) 
