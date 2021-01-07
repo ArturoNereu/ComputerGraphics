@@ -2,13 +2,13 @@
 
 ### A repository documenting Computer Graphics for real-time applications
 
-In my opinion, one of the most beautiful applications of computing, programming, mathematics, physics, art and human knowledge is *Computer Graphics*. While I don't consider myself an expert, I will say that I've been studied the topic for many years now and in this document I want to share some of the most useful and influential resources I've found through the years. I hope they are useful to you.
+In my opinion, one of the most beautiful applications of computing, programming, mathematics, physics, art and human knowledge is *Computer Graphics*. While I don't consider myself an expert, I will say that I've studied the topic for many years now and in this document I want to share some of the most useful and influential resources I've found through the years. I hope they are useful to you.
 
-Please, if you have more resources or feedback on the ones listed here, reach out to me on twitter: [@ArturoNereu](https://twitter.com/arturonereu) or submit an issue and will gladly review and add them.
+Please, if you have additional feedback or resources, feel free to reach out to me on twitter: [@ArturoNereu](https://twitter.com/arturonereu) or submit a GitHub issue and will gladly review and add them.
 
 ### Is Computer Graphics programming for me? Or where to start.
 
-Maybe you are thinking about pursuing a career in the computer graphics field or just wanting to learn more about the topic(which is basically my case). In any case, I would start by saying that is not hard but also is not extremely straightforward as CG (Computer Graphics) are built on top of many other areas such as math, programming, physics, etc. In many cases you won't need to have a deep understanding in those areas but definitely can help.
+Maybe you are thinking about pursuing a career in the computer graphics field or just wanting to learn more about the topic (which is basically my case). In any case, I would start by saying that while it may not be the most difficult area of programming it is also not extremely straightforward. Computer Graphics or CG are built on top of many other fields such as math, programming, physics, and more. In many cases you won't need to have a deep understanding of those areas but it can definitely help.
 
 - [How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html)
 
