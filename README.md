@@ -19,8 +19,9 @@ Maybe you are thinking about pursuing a career in the computer graphics field or
 * [Tools]()
 * [Books]()
 * [Community]()
+______
+![](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Internet%20Articles.png)
 
-[](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Internet%20Articles.png)
 #### Blogs
 - [Graphics Programming Weekly](https://www.jendrikillner.com/tags/weekly/) A weekly summary of hot news around the CG world curated by Ubisoft's Jendrik Illner.
 - [wwwwtyro](https://wwwtyro.net/) Blog on multiple CG related topics by Rye Terrell.
@@ -34,6 +35,7 @@ Maybe you are thinking about pursuing a career in the computer graphics field or
 #### Color
 - [Basic Color Science for Graphics Engineers](https://agraphicsguy.wordpress.com/2018/11/29/basic-color-science-for-graphics-engineers/) Fun and short write up on the basics of Color for people working on Computer Graphics. 
 
+______
 ![](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Courses.png)
 #### Computer Graphics
 - [CS1230 : Introduction To Computer Graphics Brown University](https://cs.brown.edu/courses/cs123/lectures.shtml) CG course by the Brown University. 
@@ -49,6 +51,7 @@ Maybe you are thinking about pursuing a career in the computer graphics field or
 #### Math
 - [Math for Game Devs](https://www.youtube.com/playlist?list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V) Freya Holmér (Shader Forge, Shapes) free videos teaching mathematics for game developers.
 
+______
 ![](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Tools.png)
 #### Game Engines
 - [Unity](http://unity3d.com/) 
@@ -91,6 +94,7 @@ Put your skills to use, learn, try and more by using these online shader sandbox
 #### Path/Ray Tracers
 - [Caffeine Path Tracer](https://wwwtyro.net/2018/02/25/caffeine.html) Open source and well documented path tracer by Rye Terrell
 
+______
 ![](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Books.png)
 #### Shaders and Rendering
 - [The Book of Shaders](https://thebookofshaders.com/) *free online, please consider donating*
@@ -102,6 +106,7 @@ Put your skills to use, learn, try and more by using these online shader sandbox
 #### Math
 - [Linear Algebra Done Right](https://link.springer.com/book/10.1007/978-3-319-11080-6) *free online*
 
+______
 ![](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Community.png)
 #### People to follow on Twitter
 - [CG List on Twitter](https://twitter.com/i/lists/842481518564073473) 
