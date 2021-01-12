@@ -109,7 +109,7 @@ ______
 ______
 ![](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Community.png)
 #### People to follow on Twitter
-- [CG List on Twitter](https://twitter.com/i/lists/842481518564073473) 
+- [CG List on Twitter](https://twitter.com/i/lists/842481518564073473) I've found Twitter to be a great source of ideas, material and inspiration. Here's a list of people sharing their knowledge.
 #### Communitites
 - [Computer Graphics Stack Exchange](https://computergraphics.stackexchange.com/) Question and Answer site focused on Computer Graphics.
 - [Shadertoy Facebook group](https://www.facebook.com/groups/shadertoy) Discussion group around Shadertoy.
