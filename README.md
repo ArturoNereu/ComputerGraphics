@@ -68,6 +68,7 @@ And this very interesting study on [Custom Game Engines](https://gist.github.com
 #### Shader Sandboxes
 Put your skills to use, learn, try and more by using these online shader sandboxes:
 - [ShaderToy](https://shadertoy.com)
+- [Shaderworlds](https://shaderworlds.com/) A collection of open source VR-enabled shader worlds.
 - [pocket.gl](http://pocket.gl/)
 - [Shdr](http://shdr.bkcore.com/)
 - [Shadron](https://www.arteryengine.com/shadron) Shadron is the ultimate graphics editor for programmers
