@@ -43,6 +43,7 @@ ______
 #### Computer Graphics
 - [CS1230 : Introduction To Computer Graphics Brown University](https://cs.brown.edu/courses/cs123/lectures.shtml) CG course by the Brown University. 
 - [15-462/662: Computer Graphics](http://15462.courses.cs.cmu.edu/fall2020/) CG course by the Carnegie Mellon University. Honestly one of the best  courses I've taken. Lectures are free on YouTube.
+- [Rendering Course: A course on Ray Tracing and Global Illumination:](https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/) TU Wien course about Rendering by Prof. Károly Zsolnai-Fehér (from: [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg))
 
 #### Shader Development
 - [Compute Shaders Course]https://paprika.studio/workshops/compute/index.html) Paid course on Compute Shaders with Unity by Arsiliath.
