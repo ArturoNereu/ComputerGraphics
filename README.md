@@ -45,7 +45,7 @@ ______
 - [15-462/662: Computer Graphics](http://15462.courses.cs.cmu.edu/fall2020/) CG course by the Carnegie Mellon University. Honestly one of the best  courses I've taken. Lectures are free on YouTube.
 
 #### Shader Development
-- [Compute Shaders Course](https://gumroad.com/psychobiotik) Paid course on Compute Shaders with Unity by Arsiliath.
+- [Compute Shaders Course]https://paprika.studio/workshops/compute/index.html) Paid course on Compute Shaders with Unity by Arsiliath.
 - [Shader Development using Unity](https://shaderdev.com/) Course on general CG and shader development with Unity by Technical Artist Chayan Vinayak.
 - [The Book of Shaders](https://thebookofshaders.com/) A gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
 - [Shader School](https://github.com/stackgl/shader-school) An introduction to GLSL shaders and graphics programming that runs in your web browser.
