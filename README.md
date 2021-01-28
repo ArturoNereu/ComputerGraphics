@@ -14,11 +14,11 @@ Maybe you are thinking about pursuing a career in the computer graphics field or
 
 
 #### Index
-* [Internet Articles]()
-* [Courses]()
-* [Tools]()
-* [Books]()
-* [Community]()
+* [Internet Articles]
+* [Courses]
+* [Tools]
+* [Books]
+* [Community]
 ______
 ![](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Internet%20Articles.png)
 
