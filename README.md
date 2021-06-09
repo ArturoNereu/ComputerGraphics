@@ -35,7 +35,8 @@ ______
 #### Tutorials
 - [Shader Tutorials By Ronja](https://www.ronja-tutorials.com/) Multiple Unity-centered tutorials on Shader development. [Support her on Patreon](https://www.patreon.com/RonjaTutorials).
 
-#### Color
+#### Color and Lighting
+- [Lighting Design in CG](https://www.youtube.com/watch?v=nPzRx2iYPFg&t=1s) Stefan Müller provides a very interesting presentation on how to use lighting as a tool to compose CG imagery.
 - [Basic Color Science for Graphics Engineers](https://agraphicsguy.wordpress.com/2018/11/29/basic-color-science-for-graphics-engineers/) Fun and short write up on the basics of Color for people working on Computer Graphics. 
 
 ______
