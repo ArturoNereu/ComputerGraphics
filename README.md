@@ -64,6 +64,7 @@ ______
 - [Amazon Lumberyard](https://aws.amazon.com/lumberyard/)
 - [Godot](https://godotengine.org/)
 - [Frostbite](https://www.ea.com/frostbite)
+- [Open 3D Engine](https://o3de.org/)
 
 And this very interesting study on [Custom Game Engines](https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74) by raylib.
 
