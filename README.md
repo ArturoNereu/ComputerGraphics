@@ -38,6 +38,7 @@ ______
 #### Color and Lighting
 - [Lighting Design in CG](https://www.youtube.com/watch?v=nPzRx2iYPFg&t=1s) Stefan Müller provides a very interesting presentation on how to use lighting as a tool to compose CG imagery.
 - [Basic Color Science for Graphics Engineers](https://agraphicsguy.wordpress.com/2018/11/29/basic-color-science-for-graphics-engineers/) Fun and short write up on the basics of Color for people working on Computer Graphics. 
+- [Tech Focus: Global Illumination - What It Is, How Does It Work And Why Do We Need It?](https://youtu.be/yEkryaaAsBU) Digital Foundry's explanation on Global Illumination.
 
 ______
 ![](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Courses.png)
