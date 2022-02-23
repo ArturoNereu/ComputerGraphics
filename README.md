@@ -53,6 +53,7 @@ ______
 - [Shader Development using Unity](https://shaderdev.com/) Course on general CG and shader development with Unity by Technical Artist Chayan Vinayak.
 - [The Book of Shaders](https://thebookofshaders.com/) A gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
 - [Shader School](https://github.com/stackgl/shader-school) An introduction to GLSL shaders and graphics programming that runs in your web browser.
+- [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) A collection of well-crafted explanations and examples of shading techniques by [lettier](https://github.com/lettier)
 - [Pixel Spirit Deck](https://patriciogonzalezvivo.github.io/PixelSpiritDeck/) A set of phisical cards that helps you learn shader development with GLSL (but really applies to any shader language).
 
 #### Math
