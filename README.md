@@ -100,6 +100,7 @@ Put your skills to use, learn, try and more by using these online shader sandbox
 #### Physically Based Render Engines
 - [Filament Project by Google](https://google.github.io/filament/Filament.md.html#about) Real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
 - [Mitsuba 2 Renderer](http://www.mitsuba-renderer.org/) Mitsuba 2 is a research-oriented retargetable rendering system, written in portable C++17.
+- [tiny renderer](https://github.com/ssloy/tinyrenderer) A tiny software rasterizer by Dmitry Sokolov.
 
 #### Path/Ray Tracers
 - [Caffeine Path Tracer](https://wwwtyro.net/2018/02/25/caffeine.html) Open source and well documented path tracer by Rye Terrell
