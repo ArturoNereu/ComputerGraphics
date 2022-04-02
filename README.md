@@ -40,6 +40,9 @@ ______
 - [Basic Color Science for Graphics Engineers](https://agraphicsguy.wordpress.com/2018/11/29/basic-color-science-for-graphics-engineers/) Fun and short write up on the basics of Color for people working on Computer Graphics. 
 - [Tech Focus: Global Illumination - What It Is, How Does It Work And Why Do We Need It?](https://youtu.be/yEkryaaAsBU) Digital Foundry's explanation on Global Illumination.
 
+#### Slides and Presentations
+- [Authoring Efficient Shaders for Optimal Mobile Performance](https://www.dropbox.com/s/ic0c6k0yzf2uk81/Authoring%20Efficient%20Shaders%20for%20Optimal%20Mobile%20Performance%20-%20GDC2022%20-Arm%20%26%20NaturalMotion.pdf?dl=0) David Sena and Zandro Fargnoli's 2022 GDC session
+
 ______
 ![](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Courses.png)
 #### Computer Graphics
