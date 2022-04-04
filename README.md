@@ -43,6 +43,9 @@ ______
 #### Slides and Presentations
 - [Authoring Efficient Shaders for Optimal Mobile Performance](https://www.dropbox.com/s/ic0c6k0yzf2uk81/Authoring%20Efficient%20Shaders%20for%20Optimal%20Mobile%20Performance%20-%20GDC2022%20-Arm%20%26%20NaturalMotion.pdf?dl=0) David Sena and Zandro Fargnoli's 2022 GDC session
 
+#### Papers
+- [Paperbug](https://www.jeremyong.com/paperbug/) Easy-to-search site with a collection of graphics programming papers and resources by [Jeremy Ong](https://twitter.com/m_ninepoints)
+
 ______
 ![](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Courses.png)
 #### Computer Graphics
