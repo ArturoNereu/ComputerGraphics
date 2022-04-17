@@ -31,6 +31,7 @@ ______
 #### Math
 - [Immersive Math](http://immersivemath.com/ila/index.html) An interactive site to learn basic math for Computer Graphics.
 - [Decoding a Projection Matrix](http://xdpixel.com/decoding-a-projection-matrix/) Short article on the Projection Matrix.
+- [Exponentially Better Rotations](https://thenumbat.github.io/Exponential-Rotations/) Interactive article teaching Exponential Rotations by [Max Slater](https://twitter.com/The_Numbat)
 
 #### Tutorials
 - [Shader Tutorials By Ronja](https://www.ronja-tutorials.com/) Multiple Unity-centered tutorials on Shader development. [Support her on Patreon](https://www.patreon.com/RonjaTutorials).
