@@ -123,6 +123,7 @@ ______
 
 #### Math
 - [Linear Algebra Done Right](https://link.springer.com/book/10.1007/978-3-319-11080-6) *free online*
+- [3D Math Primer for Graphics and Game Development](https://gamemath.com/) *free online*
 
 ______
 ![](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Community.png)
