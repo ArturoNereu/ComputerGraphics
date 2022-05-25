@@ -27,6 +27,7 @@ ______
 - [wwwwtyro](https://wwwtyro.net/) Blog on multiple CG related topics by Rye Terrell.
 - [Activision Research](https://research.activision.com/) Activision/Blizzard research blog centered mostly on computer graphics.
 - [ShaderCat Blog](https://www.shadercat.com/) Claudia Doppioslash's blog on (mostly) CG related topics.
+- [Behind the Pretty Frames](http://www.mamoniem.com/category/behind-the-pretty-frames/) A collection of in-depth articles around rendering of pretty games.
 
 #### Math
 - [Immersive Math](http://immersivemath.com/ila/index.html) An interactive site to learn basic math for Computer Graphics.
