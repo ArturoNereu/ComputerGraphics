@@ -52,6 +52,7 @@ ______
 ![](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Courses.png)
 #### Computer Graphics
 - [Introduction to Computer Graphics](https://youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) Cem Yuksle's introductory class to Computer Graphics. (University of Utah).
+- [Learn Computer Graphics From Scratch!](https://www.scratchapixel.com/) [@Scratchapixel](https://twitter.com/Scratchapixel)'s Computer Graphics course.
 - [CS1230 : Introduction To Computer Graphics Brown University](https://cs.brown.edu/courses/cs123/lectures.shtml) CG course by the Brown University. 
 - [15-462/662: Computer Graphics](http://15462.courses.cs.cmu.edu/fall2020/) CG course by the Carnegie Mellon University. Honestly one of the best  courses I've taken. Lectures are free on YouTube.
 - [Rendering Course: A course on Ray Tracing and Global Illumination:](https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/) TU Wien course about Rendering by Prof. Károly Zsolnai-Fehér (from: [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg))
