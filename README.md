@@ -52,6 +52,9 @@ ______
 ![](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Courses.png)
 #### Computer Graphics
 - [Introduction to Computer Graphics](https://youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) Cem Yuksle's introductory class to Computer Graphics. (University of Utah).
+- [Pikuma](https://pikuma.com/courses) Multiple CG-related courses by Gustavo Pezzi
+  - [3D Computer Graphics Programming](https://pikuma.com/courses/learn-3d-computer-graphics-programming)
+  - [Raycasting Engine Programming](https://pikuma.com/courses/raycasting-engine-tutorial-algorithm-javascript)
 - [Learn Computer Graphics From Scratch!](https://www.scratchapixel.com/) [@Scratchapixel](https://twitter.com/Scratchapixel)'s Computer Graphics course.
 - [CS1230 : Introduction To Computer Graphics Brown University](https://cs.brown.edu/courses/cs123/lectures.shtml) CG course by the Brown University. 
 - [15-462/662: Computer Graphics](http://15462.courses.cs.cmu.edu/fall2020/) CG course by the Carnegie Mellon University. Honestly one of the best  courses I've taken. Lectures are free on YouTube.
