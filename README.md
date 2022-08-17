@@ -81,6 +81,7 @@ ______
 - [Frostbite](https://www.ea.com/frostbite)
 - [Open 3D Engine](https://o3de.org/)
 - [Spartan Engine](https://github.com/PanosK92/SpartanEngine)
+- [Rogue Engine](https://rogueengine.io/)
 
 And this very interesting study on [Custom Game Engines](https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74) by raylib.
 
