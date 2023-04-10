@@ -103,6 +103,7 @@ Put your skills to use, learn, try and more by using these online shader sandbox
 - [DirectX](https://docs.microsoft.com/en-us/windows/win32/direct3d12/directx-12-programming-guide)
 - [Metal](https://developer.apple.com/metal/)
 - [OpenGL](https://www.opengl.org/)
+- [WebGPU](https://www.w3.org/TR/2023/WD-webgpu-20230406/)
 - [WebGL](https://get.webgl.org/)
 
 #### Shading Languages
