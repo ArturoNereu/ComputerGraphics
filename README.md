@@ -23,6 +23,7 @@ ______
 ![](https://github.com/ArturoNereu/ComputerGraphics/blob/master/Assets/Internet%20Articles.png)
 
 #### Blogs
+- [Aras Pranckevičius Blog](https://aras-p.info/blog/) A collection of posts by one of the smartest graphics folks.
 - [Graphics Programming Weekly](https://www.jendrikillner.com/tags/weekly/) A weekly summary of hot news around the CG world curated by Ubisoft's Jendrik Illner.
 - [wwwwtyro](https://wwwtyro.net/) Blog on multiple CG related topics by Rye Terrell.
 - [Activision Research](https://research.activision.com/) Activision/Blizzard research blog centered mostly on computer graphics.
